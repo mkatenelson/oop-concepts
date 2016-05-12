@@ -268,7 +268,7 @@ A rectangle and a triangle are both polygons but they are not identical.
 
 >***Note:*** *This can be a pair programming activity or done independently.*
 
-- Pick a strong solution from either the [geoquakes](#) or [tic-tac-toe]() mini-projects.
+- Pick a strong solution from either the [geoquakes](https://github.com/sf-wdi-29/geoquakes) or [tic-tac-toe](https://github.com/sf-wdi-29/tic-tac-toe) mini-projects.
 - Identify the main object from which all the others are derived
 - Apply as many OOP concepts as you can to refactor the code without breaking it
 - A great approach is to write a series of helper methods that you can call from anywhere within your application
