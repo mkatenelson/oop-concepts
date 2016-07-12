@@ -280,3 +280,8 @@ A rectangle and a triangle are both polygons but they are not identical.
 - [OOP in JS from JavascriptIsSexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 - [Javascript, The Good Parts](http://www.goodreads.com/book/show/2998152-javascript)
 - [Practical Object Oriented Design in Ruby, by Sandi Metz](http://www.poodr.com/)
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
